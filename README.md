@@ -1,9 +1,12 @@
 🍽 Ресторан бот 
 Телеграм-бот для бронирования столиков в ресторане.
+
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Aiogram](https://img.shields.io/badge/aiogram-v3.x-2ea44f)
 ![SQLite](https://img.shields.io/badge/SQLite-aiosqlite-003B57)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
+
+![Progress](https://img.shields.io/badge/Progress-10%25-green)
 
 
 ✨ Возможности для гостей
