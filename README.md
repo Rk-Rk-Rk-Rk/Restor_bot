@@ -39,3 +39,10 @@ config.py — Конфигурация.
 
 restaurant.db — Файл базы данных.
 
+## Далее идут блок схемы бота в его полной (будущей) версии
+# Первая
+<img width="960" height="896" alt="diagram" src="https://github.com/user-attachments/assets/697c426c-fa41-430d-b573-ec738da3faeb" />
+
+
+
+
