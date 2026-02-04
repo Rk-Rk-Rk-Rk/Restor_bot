@@ -39,6 +39,7 @@ restaurant.db — Файл базы данных.
 ## Далее идут блок схемы бота в его полной (будущей) версии
 # Первая
 <img width="960" height="896" alt="diagram" src="https://github.com/user-attachments/assets/697c426c-fa41-430d-b573-ec738da3faeb" />
+
 # Вторая
 <img width="810" height="480" alt="diagram (8)" src="https://github.com/user-attachments/assets/47863652-3fef-4868-a44d-bef97e2579ec" />
 
