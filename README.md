@@ -6,7 +6,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-aiosqlite-003B57)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-![Progress](https://img.shields.io/badge/Progress-65%25-green)
+![Progress](https://img.shields.io/badge/Progress-90%25-green)
 
 
 ✨ Возможности для гостей
